@@ -1,4 +1,3 @@
-- HTML & CSS
-- JAVA
-- REACT
-
+    - HTML & CSS
+    - JavaScript
+    - React
